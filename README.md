@@ -19,9 +19,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yurisilva2503&theme=radical&row=1&column=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=yurisilva2503&theme=gruvbox&row=1&column=5)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurisilva2503&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurisilva2503&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurisilva2503&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurisilva2503&layout=compact&theme=gruvbox)
 
 
