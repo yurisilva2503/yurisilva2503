@@ -4,7 +4,6 @@
 📍 Bacharelado em Ciência da Computação (8º Semestre) - IFPA Campus Ananindeua
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurigsfer@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuriiii.png)
 [![Lattes](https://img.shields.io/badge/Lattes-1E90FF?style=for-the-badge&logo=readme&logoColor=white)](http://lattes.cnpq.br/0846925175877186)
 
 ### 🚀 Sobre mim
