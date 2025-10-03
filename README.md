@@ -3,6 +3,10 @@
 🧑‍💻 Programador Júnior em PHP, JS e Python  
 📍 Bacharelado em Ciência da Computação (8º Semestre) - IFPA Campus Ananindeua
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurigsfer@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuriiii.png)
+[![Lattes](https://img.shields.io/badge/Lattes-1E90FF?style=for-the-badge&logo=readme&logoColor=white)](http://lattes.cnpq.br/0846925175877186)
+
 ### 🚀 Sobre mim
 - 🎓 Finalizando o Bacharelado em Ciência da Computação  
 - 💡 Interesses: Desenvolvimento Web, Automação, Cloud e Sistemas Distribuídos  
@@ -20,11 +24,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurisilva2503&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurisilva2503&layout=compact&theme=dark)
-
-### 📫 Onde me encontrar
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurigsfer@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuriiii.png)
-[![Lattes](https://img.shields.io/badge/Lattes-1E90FF?style=for-the-badge&logo=readme&logoColor=white)](http://lattes.cnpq.br/0846925175877186)
-
 
 
