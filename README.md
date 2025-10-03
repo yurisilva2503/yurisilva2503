@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 - 🎓 Finalizando o Bacharelado em Ciência da Computação  
 - 💡 Interesses: Desenvolvimento Web, Automação, Cloud e Sistemas Distribuídos  
-- 🎯 Objetivo: Criar soluções que facilitem a vida real das pessoas  
+- 🎯 Objetivo: Criar soluções que facilitem a vida real das pessoas
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,6 +18,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&pause=1000&color=F7F407&random=true&width=435&lines=Just+learning...)](https://git.io/typing-svg)
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=yurisilva2503&theme=gruvbox&row=1&column=5)
 
