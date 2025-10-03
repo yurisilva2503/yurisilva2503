@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Yuri!
 💻 Estudante de Ciência da Computação  
-🚀 Programador Júnior em PHP, JS e Python  
+🧑‍💻 Programador Júnior em PHP, JS e Python  
 📍 Bacharelado em Ciência da Computação (8º Semestre) - IFPA Campus Ananindeua
 
 ### 🚀 Sobre mim
