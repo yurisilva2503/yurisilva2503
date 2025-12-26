@@ -21,9 +21,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&pause=1000&color=F7F407&random=true&width=435&lines=Just+learning...)](https://git.io/typing-svg)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yurisilva2503&theme=gruvbox)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurisilva2503&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurisilva2503&layout=compact&theme=gruvbox)
-
 
